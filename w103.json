@@ -60,7 +60,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/DEV\/wa\/zw-map\/tiles\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -73,7 +73,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/..\/DEV\/wa\/zw-map\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -82,37 +82,8 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":32,
-         "firstgid":321,
-         "image":"..\/..\/..\/DEV\/wa\/zw-map\/tiles\/haus_a.png",
-         "imageheight":2048,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"haus_a",
-         "spacing":0,
-         "tilecount":2048,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":32,
-         "firstgid":2369,
-         "image":"..\/..\/..\/DEV\/wa\/zw-map\/tiles\/zw.png",
-         "imageheight":2048,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"zw",
-         "spacing":0,
-         "tilecount":2048,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "firstgid":4417,
-         "source":"floortileset.tsx"
-        }],
+        }
+],
  "tilewidth":32,
  "type":"map",
  "version":1.4,
